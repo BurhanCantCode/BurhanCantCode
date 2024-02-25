@@ -21,6 +21,9 @@ I'm Burhanuddin Khatri, a dedicated developer based in Karachi, Pakistan. Curren
 
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurhanCantCode&show_icons=true&count_private=true&hide=issues&theme=radical)
 
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanCantCode&layout=compact&theme=radical)
+
+
 🌐 **Connect with Me**:
    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/burhanuddin-khatri-aa44a8247/)
    - [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/burhan_frfr/)
