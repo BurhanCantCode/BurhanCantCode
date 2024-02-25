@@ -1,21 +1,30 @@
-### Hello there 👋
+# Hello there! 👋
 
-I'm Burhanuddin Khatri, a passionate developer from Karachi, Pakistan. I'm currently working on an advanced route suggesting model for red bus transport in Karachi. I'm also learning OOP with C++ and Python.
+I'm Burhanuddin Khatri, a passionate developer from Karachi, Pakistan. Currently working on an exciting project - an advanced route suggesting model for Red Bus Transport in Karachi.
 
-🔭 **Current Project**: Advanced Route Suggester for Red Bus Transport in Karachi
+🚌 **Current Project**: Advanced Route Suggester for Red Bus Transport in Karachi
 
-🌱 **Currently Learning**: OOP with C++ and Python
+🚀 **Technologies**: Python, C++
 
-👯 **Collaboration**: I’m looking to collaborate on my route suggester project. Ping me if interested!
+🌱 **Learning**: Object-Oriented Programming (OOP) with C++ and Python
 
-💬 **Ask Me About**: My projects, my learning journey, and how I can help you on your coding journey.
+👯 **Collaboration**: I'm open to collaboration on my route suggester project. Ping me if interested!
 
-📫 **How to Reach Me**: The best way to reach me is through LinkedIn (https://www.linkedin.com/in/burhanuddin-khatri-aa44a8247/)
+💬 **Ask Me About**: My projects, my learning journey, and how I can assist you on your coding journey.
+
+📊 **GitHub Stats**:
+<!-- GitHub Stats Trophy - https://github.com/ryo-ma/github-profile-trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=BurhanCantCode&theme=monokai&column=7" alt="GitHub Stats" />
+
+🎉 **Fun Fact**: Did you know that the first computer programmer was a woman named Ada Lovelace?
+
+📫 **Connect with Me**:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/burhanuddin-khatri-aa44a8247/)
 
 😄 **Pronouns**: He/Him
 
-⚡ **Fun Fact**: Did you know that the first computer programmer was a woman named Ada Lovelace?
+⚡ **Random Dev Gif**:
+<!-- Gif Source: Giphy -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200" />
 
-<!--
-**BurhanCantCode/BurhanCantCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Let's code and build amazing things together! 🚀
