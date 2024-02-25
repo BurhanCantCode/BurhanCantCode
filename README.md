@@ -19,7 +19,6 @@ I'm Burhanuddin Khatri, a dedicated developer based in Karachi, Pakistan. Curren
    <!-- GitHub Stats Trophy - https://github.com/ryo-ma/github-profile-trophy -->
    <img src="https://github-profile-trophy.vercel.app/?username=BurhanCantCode&theme=monokai&column=7" alt="GitHub Stats" />
 
-📈 **GitHub Stats**:
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurhanCantCode&show_icons=true&count_private=true&hide=issues&theme=radical)
 
 🌐 **Connect with Me**:
