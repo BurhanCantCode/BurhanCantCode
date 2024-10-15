@@ -50,3 +50,5 @@ I'm **Burhanuddin Khatri**, a passionate developer and Machine Learning enthusia
 ⚡ **Fun Fact**: I enjoy exploring how AI can help tackle real-world environmental and social issues. Let's collaborate and make an impact!
 
 🚀 **Let's build something amazing together!**  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BurhanCantCode&label=Profile%20views&color=0e75b6&style=flat" alt="BurhanCantCode" /> </p>
