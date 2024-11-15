@@ -1,54 +1,67 @@
+<div align="center">
+<img alt="Greetings" src="./assets/greetings.png" width="70%" />
+</div>
 
-# Hello there! 👋
+<div align="center">
+<a href="https://www.linkedin.com/in/burhanuddin-khatri-aa44a8247/"> <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff"/> 
+<a href="https://open.spotify.com/user/31c7fqo2jea6kq34x5ydlya5e324?si=d14f1c41fc77449b">
+<img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff" />
+</a>
+</div>
 
-I'm **Burhanuddin Khatri**, a passionate developer and Machine Learning enthusiast based in Karachi, Pakistan. I'm currently involved in various projects, particularly focusing on AI and automation.
+<br />
 
-🧑‍💻 **Current Projects**:  
-- **Audio Summarizer**: An app that records audio, generates summaries using Deepgram and Hugging Face APIs, and sends them via email.  
+<div>
+<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=BurhanCantCode&screen_effect=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=issues&dithering=true">
+</div>
 
-🚀 **Technologies & Languages**:
-   - **Python** (Flask, TensorFlow, Keras)
-   - **JavaScript** (Next.js, React)
-   - **Azure OpenAI GPT-4-O** (Text Processing)
-   - **Docker** (Containerization)
-   - **C++** (OOP, Competitive Programming)
-   - **SQL, MongoDB** (Databases)
-   - **Git, GitHub Actions** (Version Control & CI/CD)
-   - **Linux & Bash** (Scripting)
+<br />
 
-🌱 **Currently Learning**:  
-   - **LSTM-based Time Series Forecasting**  
-   - **Next.js** for building server-side rendered apps  
-   - **Cloud Automation** with Azure
+<table style="width: 100%; border-spacing: 10px; table-layout: fixed;">
+<tr>
+<td style="vertical-align: top; padding: 10px; width: 50%;">
+<p align="center">
+I'm Burhan, a passionate developer and Machine Learning enthusiast based in Karachi, Pakistan. I'm currently involved in various projects, particularly focusing on AI and automation.
+</p>
+<pre style="text-align: left; padding-top: 15px;">
+    🎓 BSC Senior @ NUCES
+    💻 Machine Learning • ☁ Cloud Computing 
+    💻 DevOps • 🔧 MlOps
+    ☁ Exploring DevOps and Distributed Systems
+    🤝 Contributing to Open Source during free time    
+    🎮 Games • Anime • Manga 
+</pre>
+</td>
+<td style="vertical-align: top; padding: 10px; width: 50%;">
+<p><b>I like working with:</b></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
+<img alt="Go" src="https://img.shields.io/badge/go-2c384a?style=flat-square&logo=go&logoColor=ffffff">
+<img alt="Docker" src="https://img.shields.io/badge/docker-2c384a?style=flat-square&logo=docker&logoColor=ffffff">
+<img alt="Redis" src="https://img.shields.io/badge/redis-2c384a?style=flat-square&logo=redis&logoColor=ffffff">
+<img alt="MongoDB" src="https://img.shields.io/badge/mongoDB-2c384a?style=flat-square&logo=mongodb&logoColor=ffffff">
+<img alt="Postman" src="https://img.shields.io/badge/postman-2c384a?style=flat-square&logo=postman&logoColor=ffffff">
+<img alt="Bash" src="https://img.shields.io/badge/bash-2c384a?style=flat-square&logo=gnubash&logoColor=ffffff">
+<img alt="Arch Linux" src="https://img.shields.io/badge/arch-2c384a?style=flat-square&logo=archlinux&logoColor=ffffff">
+<img alt="AWS" src="https://img.shields.io/badge/aws-2c384a?style=flat-square&logo=amazonwebservices&logoColor=ffffff">
+<img alt="Python" src="https://img.shields.io/badge/python-2c384a?style=flat-square&logo=python&logoColor=ffffff">
+<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-2c384a?style=flat-square&logo=kubernetes&logoColor=ffffff">
+</div>
+</td>
+</tr>
+</table>
 
-👯 **Looking for Collaborations**:  
-   - AI/ML Projects  
-   - Fullstack development using **Next.js**  
-   - Environmental and social impact projects leveraging AI
 
-💬 **Ask Me About**:  
-   - AI model deployment  
-   - Cloud automation and migrations  
-   - Building apps with modern web technologies  
-   - My experience in hackathons and open-source contributions
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
+</div>
+<div style="display: flex; width:100%;" align="center">
 
-📊 **GitHub Stats**:  
-   <img src="https://github-profile-trophy.vercel.app/?username=BurhanCantCode&theme=monokai&column=7" alt="GitHub Stats" />  
 
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurhanCantCode&show_icons=true&count_private=true&hide=issues&theme=radical)  
 
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanCantCode&layout=compact&theme=radical)
+</div>
 
-🌐 **Connect with Me**:  
-   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/burhanuddin-khatri-aa44a8247/)
-   - [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/burhan_frfr/)
-   - [![Spotify](https://img.shields.io/badge/Spotify-Follow-green)](https://open.spotify.com/user/31c7fqo2jea6kq34x5ydlya5e324?si=d14f1c41fc77449b)
-   - [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue)](https://learn.microsoft.com/en-us/users/burhanuddinkhatri-4132/)
+<br />
 
-😄 **Pronouns**: He/Him  
+---
 
-⚡ **Fun Fact**: I enjoy exploring how AI can help tackle real-world environmental and social issues. Let's collaborate and make an impact!
-
-🚀 **Let's build something amazing together!**  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BurhanCantCode&label=Profile%20views&color=0e75b6&style=flat" alt="BurhanCantCode" /> </p>
+Hit me up on either my socials or email me @ burhanuddinkhatri@gmail.com
