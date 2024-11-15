@@ -52,7 +52,7 @@ I'm Burhan, a passionate developer and Machine Learning enthusiast based in Kara
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluuto19&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanCantCode&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
 </div>
 <div style="display: flex; width:100%;" align="center">
 
