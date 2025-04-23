@@ -1,13 +1,3 @@
-<div align="center">
-<img alt="Greetings" src="./assets/greetings.png" width="70%" />
-</div>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/burhanuddin-khatri-aa44a8247/"> <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-2c384a?style=flat-square&logo=linkedin&logoColor=ffffff"/> 
-<a href="https://open.spotify.com/user/31c7fqo2jea6kq34x5ydlya5e324?si=d14f1c41fc77449b">
-<img alt="Static Badge" src="https://img.shields.io/badge/spotify-2c384a?style=flat-square&logo=spotify&logoColor=ffffff" />
-</a>
-</div>
 
 <br />
 
@@ -51,10 +41,6 @@ I'm Burhan, a passionate developer and Machine Learning enthusiast based in Kara
 </table>
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanCantCode&layout=donut&theme=codeSTACKr&bg_color=151515&langs_count=7&size_weight=0.5&count_weight=0.5" style="width:400px">
-</div>
-<div style="display: flex; width:100%;" align="center">
 
 
 
@@ -64,4 +50,4 @@ I'm Burhan, a passionate developer and Machine Learning enthusiast based in Kara
 
 ---
 
-Hit me up on either my socials or email me @ burhanuddinkhatri@gmail.com
+Hit me up on either my socials or email me @burhanuddinkhatri@gmail.com
